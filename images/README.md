@@ -1,1 +1,3 @@
-Folder ini menampung grafik PNG yang dihasilkan notebook `notebooks/KNKT_EDA.ipynb`.
+## Hasil grafik
+
+Jalankan `python scripts/generate_figures.py` dari root repository untuk menghasilkan histogram, boxplot, heatmap, grafik korelasi, grafik deret waktu, dan ringkasan dashboard PNG dari CSV mentah.
